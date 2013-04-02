@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="7593aa0b-1632-4d7f-844f-1ef74f55b237" kpf_version="5" name="PicUp.komodoproject">
+<file id="01db888a-c2b6-4635-acb2-a91b34ead336" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="init.php" url="init.php">
+</file>
+<file id="1c475a53-b57c-4661-86cb-83ff5a62e659" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="index.php" url="index.php">
+</file>
+<file id="40ed24e3-f6fd-4293-b1c7-2ed6fffb1fd4" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="deleteimage.php" url="deleteimage.php">
+</file>
+<file id="7736d53e-3cbe-4629-af22-a93684447935" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="uploadimage.php" url="uploadimage.php">
+</file>
+<file id="9a4ee4f4-3ccf-4b0a-a235-5eab7b67df3a" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="album.php" url="album.php">
+</file>
+<file id="a86114bc-22b8-46c3-8d6c-88764364d0dd" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="first.php" url="first.php">
+</file>
+<file id="b5818f46-6956-4034-b79a-175b1a032cb6" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="login.php" url="login.php">
+</file>
+<file id="c1dcfa17-5ab1-44f9-9c89-c68d11c30fe4" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="viewalbum.php" url="viewalbum.php">
+</file>
+<file id="c60046ad-32e7-4ebc-918d-b12da5f4c4cb" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="function.php" url="function.php">
+</file>
+<file id="c7d021f1-d185-4edd-92b5-d66925b15afc" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="thumb.func.php" url="file:///C:/Users/Rahul/Downloads/thumb.func.php">
+</file>
+<file id="c8c1c4b8-6eeb-4aca-851b-0a37180312ec" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="deletealbum.php" url="deletealbum.php">
+</file>
+<file id="cca5aa1e-65e7-4759-b819-fb3c920daceb" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="register.php" url="register.php">
+</file>
+<file id="d794aa60-6e05-4413-be38-9e04d6dc0375" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="editalbum.php" url="editalbum.php">
+</file>
+<file id="f4f59814-7767-49ba-b66d-0e10ca81b77c" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="createalbum.php" url="createalbum.php">
+</file>
+<file id="f515a4ac-dae2-4f24-a8e4-3c8d7246f14c" idref="7593aa0b-1632-4d7f-844f-1ef74f55b237" name="error.php" url="error.php">
+</file>
+</project>

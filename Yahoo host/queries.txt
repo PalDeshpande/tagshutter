@@ -1,0 +1,19 @@
+CREATE TABLE tbl_users(
+userid varchar(10),
+email varchar(50),
+password varchar(30),
+name varchar(35));
+
+CREATE TABLE tbl_albums(
+albumid int(10)NOT NULL AUTO_INCREMENT,
+userid varchar(10),
+timestamp int(11),
+name varchar(35),
+description varchar(255));
+
+CREATE TABLE tbl_images(
+imageid int(10)NOT NULL AUTO_INCREMENT,,
+userid varchar(10),
+albumid int(10),
+timestamp int(11),
+ext varchar(4)); 
